@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Machine Learning
+- Deep Learning
+- Cloud Technology
+- Android
+- Web Development
