@@ -1,0 +1,5 @@
+- Machine Learning
+- Deep Learning
+- Cloud Technology
+- Android
+- Web Development
